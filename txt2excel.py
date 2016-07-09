@@ -1,6 +1,6 @@
 #coding=utf-8
 #######################################################
-#filename:tttxxx.py
+#filename:txt2excel.py
 #author:Delfy
 #date:2016-7-8
 #function：读取txt导入excel文件
